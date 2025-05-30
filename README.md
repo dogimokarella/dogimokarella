@@ -21,4 +21,4 @@
 ## 📫 Bana ulaşmak istersen:
 
 - 📧 dogimokarella@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/dogan-gul
