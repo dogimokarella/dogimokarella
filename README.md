@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Merhaba, ben Doğan!
 
-<!--
-**dogimokarella/dogimokarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Programcılığı okuyorum.  
+💻 Yazılım geliştirme, otomasyon sistemleri ve oyun projeleri üzerine çalışıyorum.  
+🌱 Şu anda C#, Java ve SQL üzerinde kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🚀 Projelerimden Bazıları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 [Oyun Kütüphane Projesi](https://github.com/dogimokarella/oyun-kutuphane)
+- 🚌 [Otobüs Bilet Otomasyonu](https://github.com/dogimokarella/otobus-bilet-otomasyonu)
+- 🐾 [Petshop & Veteriner Otomasyonu](https://github.com/dogimokarella/petshop-veteriner-otomasyonu)
+- 📦 [Stok Takip Sistemi](https://github.com/dogimokarella/stok-takip-otomasyonu)
+
+## 💡 İlgi Alanlarım
+
+- Oyun geliştirme ve oyun temelli öğrenme
+- Masaüstü yazılım geliştirme (C#, )
+- SQL tabanlı veritabanı uygulamaları
+- Eğitimde teknoloji kullanımı
+
+## 📫 Bana ulaşmak istersen:
+
+- 📧 dogimokarella@gmail.com
+- 💼 LinkedIn: 
